@@ -1,2 +1,2 @@
-# CodeSync
-sync my code
+# test
+test some code
